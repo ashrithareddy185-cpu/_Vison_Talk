@@ -1,0 +1,5 @@
+{
+  "name": "VisionTalk",
+  "description": "A privacy-focused visual reasoning and voice interaction assistant.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
